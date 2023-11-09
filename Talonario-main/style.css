@@ -1,0 +1,9 @@
+
+table th {
+    width: 10em;
+}
+
+
+table {
+    border-collapse:collapse;
+}
